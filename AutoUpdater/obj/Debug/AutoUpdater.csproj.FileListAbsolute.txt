@@ -1,0 +1,10 @@
+C:\CodeGames\Underdogs\AutoUpdater\AutoUpdater\bin\Debug\AutoUpdater.exe.config
+C:\CodeGames\Underdogs\AutoUpdater\AutoUpdater\obj\Debug\AutoUpdater.csprojResolveAssemblyReference.cache
+C:\CodeGames\Underdogs\AutoUpdater\AutoUpdater\obj\Debug\AutoUpdater.frmSplash.resources
+C:\CodeGames\Underdogs\AutoUpdater\AutoUpdater\obj\Debug\AutoUpdater.Properties.Resources.resources
+C:\CodeGames\Underdogs\AutoUpdater\AutoUpdater\obj\Debug\AutoUpdater.csproj.GenerateResource.Cache
+C:\CodeGames\Underdogs\AutoUpdater\AutoUpdater\bin\Debug\AutoUpdater.exe
+C:\CodeGames\Underdogs\AutoUpdater\AutoUpdater\bin\Debug\AutoUpdater.pdb
+C:\CodeGames\Underdogs\AutoUpdater\AutoUpdater\obj\Debug\AutoUpdater.exe
+C:\CodeGames\Underdogs\AutoUpdater\AutoUpdater\obj\Debug\AutoUpdater.pdb
+C:\CodeGames\Underdogs\AutoUpdater\AutoUpdater\obj\Debug\AutoUpdater.frmUpdate.resources
